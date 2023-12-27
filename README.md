@@ -1,7 +1,6 @@
-Hi, Whom ever is peeking my github account. 
+Hello - My Github Viewer. Let me introduce myself. 
+My name is Lakshmi Narayanan, Basically i am a developer and Proud Ex.Tester.
+I am a website , Software & App Development.
 
-My name is Lakshmi Narayanan, Basically i am a developer come tester.
+My Website -> naraine-developer.website/Portfolio 
 
-
-
-![Naraine](https://naraine-developer.websit/Portfolio/Assets/Img1.png)
