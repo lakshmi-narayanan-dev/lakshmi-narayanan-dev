@@ -3,3 +3,6 @@ VCS = Version Control System
 ------------------------------
 sudo apt install git 
 git --version
+
+https://fig.io/ 
+Git Rebase = Conflicts in package-lock.json
