@@ -11,3 +11,8 @@ Git Rebase = Conflicts in package-lock.json
 Git + SSH
 —------------------------
 https://pipelinedriven.org/	
+
+--------------------
+SSH Secrure Shell
+--------------------
+ssh-keygen -t rsa 
