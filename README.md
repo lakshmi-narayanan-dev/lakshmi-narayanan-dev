@@ -1,8 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Slab:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
 
 <img src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" width="300" height="300" >
 
-<h1 style="font-family: 'Josefin Slab', serif;">HI..!! I'M LAKSHMI NARAYANAN , WEBSITE & SOFTWARE DEVELOPER  </h1>
+<h1 @import url('https://fonts.googleapis.com/css2?family=Josefin+Slab:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap'); style="font-family: 'Josefin Slab', serif;">HI..!! I'M LAKSHMI NARAYANAN , WEBSITE & SOFTWARE DEVELOPER  </h1>
 
 Hello - My Github Viewer. Let me introduce myself. 
 My name is Lakshmi Narayanan, Basically i am a developer and Proud Ex.Tester.
