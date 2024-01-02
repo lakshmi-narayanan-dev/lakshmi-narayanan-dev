@@ -10,4 +10,4 @@ My Website -> naraine-developer.website/Portfolio
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Lakshmi24460249?label=Follow)
 [![Linkedin: anmol](https://img.shields.io/badge/-LakshmiNarayanan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lakshmi-narayanan-701a57127/)](https://www.linkedin.com/in/lakshmi-narayanan-701a57127/)
-![GitHub followers](https://naraine-developer.website/Assets-References/Social-Media/github-mark-white.svg)
+![GitHub followers](https://naraine-developer.website/Assets-References/Social-Media/github-mark.png)
