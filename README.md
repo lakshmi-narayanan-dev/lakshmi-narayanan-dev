@@ -8,6 +8,5 @@ I am a website , Software & App Development.
 My Website -> naraine-developer.website/Portfolio 
 
 
-![Twitter](https://naraine-developer.website/Assets-References/Social-Media/twitter%20%283%29.png)
-![GitHub followers](https://naraine-developer.website/Assets-References/Social-Media/github-mark.png)
-![GitHub followers](https://naraine-developer.website/Assets-References/Social-Media/github-mark.png)
+![Twitter](https://naraine-developer.website/Assets-References/Social-Media/twitter%20%283%29.png) height="100"
+![GitHub](https://naraine-developer.website/Assets-References/Social-Media/github-mark.png)
