@@ -8,6 +8,6 @@ I am a website , Software & App Development.
 My Website -> naraine-developer.website/Portfolio 
 
 
-![Twitter Follow](https://img.shields.io/twitter/follow/Lakshmi24460249?label=Follow)
-[![Linkedin: anmol](https://img.shields.io/badge/-LakshmiNarayanan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lakshmi-narayanan-701a57127/)](https://www.linkedin.com/in/lakshmi-narayanan-701a57127/)
+![Twitter](https://naraine-developer.website/Assets-References/Social-Media/twitter%20%283%29.png)
+![GitHub followers](https://naraine-developer.website/Assets-References/Social-Media/github-mark.png)
 ![GitHub followers](https://naraine-developer.website/Assets-References/Social-Media/github-mark.png)
