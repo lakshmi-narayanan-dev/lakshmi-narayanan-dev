@@ -1,4 +1,4 @@
-<h1>HELLO....!!!!! I AM LAKSHMI NARAYANAN <img src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" width="150"></h1>
+<h1>HELLO....!!!!! I AM LAKSHMI NARAYANAN <img src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" width="100" height="200" ></h1>
 
 Hello - My Github Viewer. Let me introduce myself. 
 My name is Lakshmi Narayanan, Basically i am a developer and Proud Ex.Tester.
