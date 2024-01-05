@@ -6,7 +6,3 @@ My name is Lakshmi Narayanan, Basically i am a developer and Proud Ex.Tester.
 I am a website , Software & App Development.
 
 My Website -> naraine-developer.website/Portfolio 
-
-
-![Twitter](https://naraine-developer.website/Assets-References/Social-Media/twitter%20%283%29.png | width=100 )
-![GitHub](https://naraine-developer.website/Assets-References/Social-Media/github-mark.png | width=100)
