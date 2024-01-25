@@ -11,7 +11,7 @@
  <img src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" alt="lakshmi-narayanan-dev" width="300px" /> 
 </p>
 
-<p align="left"> 
+<p> 
 - LMS using **ReactJs, NodeJs, MongoDB, TailwindCss & So on..**
 - ✨ I’m currently learning **Javascript, ReactJS & React Native**
 - 👨‍💻 All of my projects are available at **[https://github.com/lakshmi-narayanan-dev/](https://github.com/lakshmi-narayanan-dev/)**
