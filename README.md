@@ -5,10 +5,10 @@
 <img src="https://komarev.com/ghpvc/?username=lakshmi-narayanan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="lakshmi-narayanan-dev" /> 
 <img src="https://badges.pufler.dev/repos/lakshmi-narayanan-dev"/>
 </p>
-
+ 
 <p>&nbsp; </p>
 <p align="right"> 
- <img src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" alt="lakshmi-narayanan-dev" width="300px" height="250px" /> 
+ <img src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" alt="lakshmi-narayanan-dev" width="100px" height="150px" /> 
 </p>
 
 - LMS using **ReactJs, NodeJs, MongoDB, TailwindCss & So on..**
