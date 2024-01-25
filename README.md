@@ -16,23 +16,9 @@
 - 📄 Know about my experiences [https://www.naraine-developer.website/Resume.pdf](https://www.naraine-developer.website/Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
-  
-<a href="https://linkedin.com/in/lakshmi-narayanan-frontend-developer" target="blank" style="text-decoration:none; padding-right: 50px;"  >
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshmi-narayanan-frontend-developer" height="25" width="25" />  &nbsp; &nbsp;  
-</a>
-
-<a href="https://medium.com/@lakshmi_narayanan" target="blank"  style="text-decoration:none;">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lakshmi_narayanan" height="40" width="40" />
-</a>
-
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/naraine_dev" target="blank"  style="text-decoration:none;">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/naraine_dev" height="40" width="40" />
-</a>
-
-<a href="https://www.leetcode.com/https://leetcode.com/lakshmi_narayanan_1234/" target="blank"  style="text-decoration:none;">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/lakshmi_narayanan_1234/" height="40" width="40" />
-</a>
-
+<a href="https://allmylinks.com/naraine-dev">
+  <img align="left" alt="Links" width="36px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />
+ </a>
 
 <h3 align="left">Languages and Tools:</h3>
 <img align='right' src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" width="400" height="400" style="margin: 0 0 0 50%;" >
