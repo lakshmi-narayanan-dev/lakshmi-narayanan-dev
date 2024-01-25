@@ -15,19 +15,17 @@
 
 - 📄 Know about my experiences [https://www.naraine-developer.website/Resume.pdf](https://www.naraine-developer.website/Resume.pdf)
 
- <p>&nbsp; </p>
-
- <p align="left"> <img src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" alt="lakshmi-narayanan-dev" width="300px" /> </p>
-
+<p>&nbsp; </p>
+<p align="left"> <img src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" alt="lakshmi-narayanan-dev" width="300px" /> </p>
  
- <p>&nbsp; </p>
-
+<p>&nbsp; </p>
 <h3 align="left">All My Links @ OneHut</h3>
 <a href="https://allmylinks.com/naraine-dev">
-  <img align="left" alt="Links" width="36px" src="https://theme.zdassets.com/theme_assets/9461344/62cbb9630ef218b3351056b869896df79db71fcb.png" />
- </a>
- <p>&nbsp;</p>
+  <img align="left" alt="Links" width="40px" src="https://theme.zdassets.com/theme_assets/9461344/62cbb9630ef218b3351056b869896df79db71fcb.png" />
+</a>
 
+
+<p>&nbsp; </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
