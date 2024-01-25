@@ -14,7 +14,9 @@
 - 📄 Know about my experiences **[https://www.naraine-developer.website/Resume.pdf](https://www.naraine-developer.website/Resume.pdf)**
 
 <p>&nbsp; </p>
-<p align="left"> <img src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" alt="lakshmi-narayanan-dev" width="300px" /> </p>
+<p align="right"> 
+ <img src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" alt="lakshmi-narayanan-dev" width="300px" /> 
+</p>
 
 **ALL MY LINKS IN ONE SHELTER**
 ----------------------------------
