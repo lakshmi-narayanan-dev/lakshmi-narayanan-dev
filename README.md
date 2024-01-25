@@ -3,7 +3,7 @@
  
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=lakshmi-narayanan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="lakshmi-narayanan-dev" /> 
-<img src="https://badges.pufler.dev/repos/akshmi-narayanan-dev"/>
+<img src="https://badges.pufler.dev/repos/lakshmi-narayanan-dev"/>
 </p>
 
 
