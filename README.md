@@ -17,10 +17,8 @@
 
  <p>&nbsp; </p>
 
- <p align="left"> <img src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" alt="lakshmi-narayanan-dev" /> </p>
- <p style="width:100%;">
-   <img align='left' src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" width="350" height="350"  >
- </p>
+ <p align="left"> <img src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" alt="lakshmi-narayanan-dev" width="300px" /> </p>
+
  
  <p>&nbsp; </p>
 
