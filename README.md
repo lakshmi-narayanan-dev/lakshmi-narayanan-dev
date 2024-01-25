@@ -18,7 +18,7 @@
 
  <p>&nbsp; </p>
 
- <img align='right' src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" width="250" height="250"  >
+ <img align='left' src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" width="250" height="250"  >
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://allmylinks.com/naraine-dev">
