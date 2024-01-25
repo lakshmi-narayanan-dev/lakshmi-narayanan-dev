@@ -18,15 +18,15 @@
 
  <p>&nbsp; </p>
 
+ <img align='right' src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" width="250" height="250"  >
+
 <h3 align="left">Connect with me:</h3>
 <a href="https://allmylinks.com/naraine-dev">
-  <img align="left" alt="Links" width="36px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />
+  <img align="left" alt="Links" width="36px" src="https://theme.zdassets.com/theme_assets/9461344/62cbb9630ef218b3351056b869896df79db71fcb.png" />
  </a>
  <p>&nbsp;</p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img align='right' src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" width="250" height="250"  >
-
 <p align="left"> 
 
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
