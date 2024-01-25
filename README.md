@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
   
-<a href="https://linkedin.com/in/lakshmi-narayanan-frontend-developer" target="blank" style="text-decoration:none;" >
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshmi-narayanan-frontend-developer" height="40" width="40" />
+<a href="https://linkedin.com/in/lakshmi-narayanan-frontend-developer" target="blank" style="text-decoration:none; padding-right: 50px;"  >
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshmi-narayanan-frontend-developer" height="25" width="25" />
 </a>
 
 <a href="https://medium.com/@lakshmi_narayanan" target="blank"  style="text-decoration:none;">
