@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Lakshmi Narayanan R</h1>
 <h3 align="left">WEBSITE & SOFTWARE DEVELOPER</h3>
-<img align='right' src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" width="400" height="400" margin-left='100px' >
+<img align='right' src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" width="400" height="400" margin-left='100px' border='1px solid black' >
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshmi-narayanan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="lakshmi-narayanan-dev" /> </p>
