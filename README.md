@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Lakshmi Narayanan R</h1>
-<h3 align="left">WEBSITE, SOFTWARE & APP DEVELOPER</h3>  <img src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" alt="lakshmi-narayanan-dev" width="100px" height="150px" /> 
+<h3 align="left">WEBSITE, SOFTWARE & APP DEVELOPER</h3>  <img src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" alt="lakshmi-narayanan-dev" width="170px" height="150px" /> 
  
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=lakshmi-narayanan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="lakshmi-narayanan-dev" /> 
@@ -7,10 +7,6 @@
 </p>
  
 <p>&nbsp; </p>
-<p align="right"> 
- <img src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" alt="lakshmi-narayanan-dev" width="100px" height="150px" /> 
-</p>
-
 - LMS using **ReactJs, NodeJs, MongoDB, TailwindCss & So on..**
 - ✨ I’m currently learning **Javascript, ReactJS & React Native**
 - 👨‍💻 All of my projects are available at **[https://github.com/lakshmi-narayanan-dev/](https://github.com/lakshmi-narayanan-dev/)**
