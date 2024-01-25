@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshmi-narayanan-dev" alt="lakshmi-narayanan-dev" /></a> </p>
 
-- GAD's Infinite Leadership **Learning Management System Using ReactJs, NodeJs, MongoDB, TailwindCss & So on..**
+- LMS using **ReactJs, NodeJs, MongoDB, TailwindCss & So on..**
 
 - 🌱 I’m currently learning **Javascript, ReactJS & React Native**
 
