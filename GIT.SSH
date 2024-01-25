@@ -1,0 +1,24 @@
+------------------------------
+VCS = Version Control System
+------------------------------
+sudo apt install git 
+git --version
+
+---------------------
+Learning site
+---------------------
+https://learngitbranching.js.org/
+https://fig.io/ 
+https://pipelinedriven.org/	 - git + ssh
+
+--------------------------------------------
+SSH Secure Shell Configure in linux machine
+--------------------------------------------
+ssh-keygen -t rsa 
+
+-----------------------------
+git Commands
+-----------------------------
+git pull
+git clone url
+Git Rebase = Conflicts in package-lock.json
