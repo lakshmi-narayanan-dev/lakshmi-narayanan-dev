@@ -57,8 +57,9 @@
  
 <p>&nbsp; </p>
 <p>&nbsp; </p>
-- 📫 How to reach me **lakshmi.narayanan.dev@gmail.com**
+**Stats*
 
+<p>&nbsp; </p>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshmi-narayanan-dev&show_icons=true&locale=en&layout=compact" alt="lakshmi-narayanan-dev" /></p>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=lakshmi-narayanan-dev&show_icons=true&locale=en" alt="lakshmi-narayanan-dev" /></p>
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshmi-narayanan-dev&" alt="lakshmi-narayanan-dev" /></p>
