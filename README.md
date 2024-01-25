@@ -1,7 +1,6 @@
 <h1 align="left">Hi 👋, I'm Lakshmi Narayanan R</h1>
 <h3 align="left">WEBSITE, SOFTWARE & APP DEVELOPER</h3>
- <p>&nbsp; </p>
-
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshmi-narayanan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="lakshmi-narayanan-dev" /> </p>
 
 - LMS using **ReactJs, NodeJs, MongoDB, TailwindCss & So on..**
@@ -17,7 +16,8 @@
 - 📄 Know about my experiences [https://www.naraine-developer.website/Resume.pdf](https://www.naraine-developer.website/Resume.pdf)
 
  <p>&nbsp; </p>
- 
+
+ <p align="left"> <img src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" alt="lakshmi-narayanan-dev" /> </p>
  <p style="width:100%;">
    <img align='left' src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" width="350" height="350"  >
  </p>
