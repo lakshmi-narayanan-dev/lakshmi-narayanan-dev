@@ -1,4 +1,4 @@
-<img align='right' src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" width="100%" height="300" margin-left='100px' >
+<img align='right' src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" width="400" height="400" margin-left='100px' >
 <h5>HI..!! I'M LAKSHMI NARAYANAN , WEBSITE & SOFTWARE DEVELOPER  </h5>
 
 Hello - My Github Viewer. Let me introduce myself. 
