@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lakshmi Narayanan R</h1>
-<h3 align="center">WEBSITE & SOFTWARE DEVELOPER</h3>
+<h1 align="left">Hi 👋, I'm Lakshmi Narayanan R</h1>
+<h3 align="left">WEBSITE & SOFTWARE DEVELOPER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshmi-narayanan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="lakshmi-narayanan-dev" /> </p>
 
