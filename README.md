@@ -19,6 +19,7 @@
 <a href="https://allmylinks.com/naraine-dev">
   <img align="left" alt="Links" width="36px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />
  </a>
+ <p>&nbsp;</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <img align='right' src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" width="400" height="400" style="margin: 0 0 0 50%;" >
