@@ -18,19 +18,19 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<a href="https://linkedin.com/in/lakshmi-narayanan-frontend-developer" target="blank" style >
+<a href="https://linkedin.com/in/lakshmi-narayanan-frontend-developer" target="blank" style="text-decoration:none;" >
 <img align="center" style="margin-right: 300px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshmi-narayanan-frontend-developer" height="40" width="40" />
 </a>
 
-<a href="https://medium.com/@lakshmi_narayanan" target="blank">
+<a href="https://medium.com/@lakshmi_narayanan" target="blank"  style="text-decoration:none;">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lakshmi_narayanan" height="40" width="40" />
 </a>
 
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/naraine_dev" target="blank">
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/naraine_dev" target="blank"  style="text-decoration:none;">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/naraine_dev" height="40" width="40" />
 </a>
 
-<a href="https://www.leetcode.com/https://leetcode.com/lakshmi_narayanan_1234/" target="blank">
+<a href="https://www.leetcode.com/https://leetcode.com/lakshmi_narayanan_1234/" target="blank"  style="text-decoration:none;">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/lakshmi_narayanan_1234/" height="40" width="40" />
 </a>
 
