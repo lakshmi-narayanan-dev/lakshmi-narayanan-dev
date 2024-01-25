@@ -16,10 +16,9 @@
 - 📄 Know about my experiences [https://www.naraine-developer.website/Resume.pdf](https://www.naraine-developer.website/Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
   
 <a href="https://linkedin.com/in/lakshmi-narayanan-frontend-developer" target="blank" style="text-decoration:none;" >
-<img align="center" style="margin-right: 300px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshmi-narayanan-frontend-developer" height="40" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshmi-narayanan-frontend-developer" height="40" width="40" />
 </a>
 
 <a href="https://medium.com/@lakshmi_narayanan" target="blank"  style="text-decoration:none;">
@@ -34,7 +33,6 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/lakshmi_narayanan_1234/" height="40" width="40" />
 </a>
 
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <img align='right' src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" width="400" height="400" style="margin: 0 0 0 50%;" >
