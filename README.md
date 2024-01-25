@@ -8,10 +8,10 @@
 
 - LMS using **ReactJs, NodeJs, MongoDB, TailwindCss & So on..**
 - ✨ I’m currently learning **Javascript, ReactJS & React Native**
-- 👨‍💻 All of my projects are available at [https://github.com/lakshmi-narayanan-dev/](https://github.com/lakshmi-narayanan-dev/)
+- 👨‍💻 All of my projects are available at **[https://github.com/lakshmi-narayanan-dev/](https://github.com/lakshmi-narayanan-dev/)**
 - 💬 Ask me about **Front-End & App-Dev**
 - 📫 How to reach me **lakshmi.narayanan.dev@gmail.com**
-- 📄 Know about my experiences [https://www.naraine-developer.website/Resume.pdf](https://www.naraine-developer.website/Resume.pdf)
+- 📄 Know about my experiences **[https://www.naraine-developer.website/Resume.pdf](https://www.naraine-developer.website/Resume.pdf)**
 
 <p>&nbsp; </p>
 <p align="left"> <img src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" alt="lakshmi-narayanan-dev" width="300px" /> </p>
