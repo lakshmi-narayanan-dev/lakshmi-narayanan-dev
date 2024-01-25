@@ -7,6 +7,10 @@ I am a website, Software & App Development.
 
 My Website -> Naraine-developer.website/Portfolio 
 
+Languages Known
+-----------------
+<i class="devicon-html5-plain colored"></i>
+          
 
 https://rahuldkjain.github.io/gh-profile-readme-generator/
 https://github.com/ritik307/ritik307/blob/main/README.md?plain=1
