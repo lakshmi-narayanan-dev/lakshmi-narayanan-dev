@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshmi-narayanan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="lakshmi-narayanan-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshmi-narayanan-dev" alt="lakshmi-narayanan-dev" /></a> </p>
-
 - LMS using **ReactJs, NodeJs, MongoDB, TailwindCss & So on..**
 
 - 🌱 I’m currently learning **Javascript, ReactJS & React Native**
