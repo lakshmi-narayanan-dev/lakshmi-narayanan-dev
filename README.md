@@ -17,8 +17,10 @@
 - 📄 Know about my experiences [https://www.naraine-developer.website/Resume.pdf](https://www.naraine-developer.website/Resume.pdf)
 
  <p>&nbsp; </p>
- <img align='left' src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" width="250" height="250"  >
-  <p>&nbsp;</p>
+ <p style="width:100%;">
+   <img align='left' src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" width="250" height="250"  >
+ </p>
+   <p>&nbsp;</p>
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://allmylinks.com/naraine-dev">
