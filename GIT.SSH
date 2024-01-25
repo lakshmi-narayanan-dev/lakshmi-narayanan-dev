@@ -1,7 +1,7 @@
 ------------------------------
 VCS = Version Control System
 ------------------------------
-sudo apt install git 
+sudo apt install git
 git --version
 
 ---------------------
@@ -20,5 +20,12 @@ ssh-keygen -t rsa
 git Commands
 -----------------------------
 git pull
-git clone url
+git clone URL
 Git Rebase = Conflicts in package-lock.json
+
+---------------------------
+git configuration globally 
+----------------------------
+git config --global user.email "lakshmi.narayanan.dev@gmail.com"
+git config --global user.name "lakshmi-narayanan"
+git config --list
