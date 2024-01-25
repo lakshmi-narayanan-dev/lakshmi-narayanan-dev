@@ -25,7 +25,7 @@
  <p>&nbsp;</p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img align='right' src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" width="400" height="400" style="margin: 0 0 0 50%;" >
+<img align='right' src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" width="250" height="250"  >
 
 <p align="left"> 
 
@@ -42,7 +42,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshmi-narayanan-dev&show_icons=true&locale=en&layout=compact" alt="lakshmi-narayanan-dev" /></p>
  <p>&nbsp; </p>
-
+ 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshmi-narayanan-dev&show_icons=true&locale=en" alt="lakshmi-narayanan-dev" /></p>
  <p>&nbsp; </p>
 
