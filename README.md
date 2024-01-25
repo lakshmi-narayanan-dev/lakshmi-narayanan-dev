@@ -22,7 +22,7 @@
  
  <p>&nbsp; </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">All My Links @ OneHut</h3>
 <a href="https://allmylinks.com/naraine-dev">
   <img align="left" alt="Links" width="36px" src="https://theme.zdassets.com/theme_assets/9461344/62cbb9630ef218b3351056b869896df79db71fcb.png" />
  </a>
