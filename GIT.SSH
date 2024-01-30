@@ -15,6 +15,7 @@ https://pipelinedriven.org/	 - git + ssh
 SSH Secure Shell Configure in linux machine
 --------------------------------------------
 ssh-keygen -t rsa 
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh
 
 -----------------------------
 git Commands
