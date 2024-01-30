@@ -30,3 +30,9 @@ git configuration globally
 git config --global user.email "lakshmi.narayanan.dev@gmail.com"
 git config --global user.name "lakshmi-narayanan"
 git config --list
+
+
+---------------
+Deployment 
+---------------
+https://railway.app/
