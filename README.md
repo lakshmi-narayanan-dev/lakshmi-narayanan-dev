@@ -10,7 +10,7 @@
 <p>&nbsp; </p>
 
 - LMS using **ReactJs, NodeJs, MongoDB, TailwindCss & So on..**
-- ✨ I’m currently learning **Javascript, ReactJS & React Native**
+- ✨ I’m currently learning **Javascript, ReactJS**
 - 👨‍💻 All of my projects are available at **[https://github.com/lakshmi-narayanan-dev/](https://github.com/lakshmi-narayanan-dev/)**
 - 💬 Ask me about **Front-End & App-Dev**
 - 📫 How to reach me **lakshmi.narayanan.dev@gmail.com**
