@@ -1,6 +1,6 @@
 <h1 align="left"><code>Hi 👋, I'm Lakshmi Narayanan R</code></h1>
 <h3 align="left"><code>WEBSITE, SOFTWARE DEVELOPER</code></h3>
-<img src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" alt="lakshmi-narayanan-dev" width="170px" height="150px" /> 
+<img src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" alt="lakshmi-narayanan-dev" width="140px" height="150px" /> 
  
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=lakshmi-narayanan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="lakshmi-narayanan-dev" /> 
@@ -9,12 +9,10 @@
  
 <p>&nbsp; </p>
 
-- LMS using **ReactJs, NodeJs, MongoDB, TailwindCss & So on..**
-- ✨ I’m currently learning **Javascript, ReactJS**
-- 👨‍💻 All of my projects are available at **[https://github.com/lakshmi-narayanan-dev/](https://github.com/lakshmi-narayanan-dev/)**
-- 💬 Ask me about **Front-End & App-Dev**
+- ✨ I’m currently learning & working in **Javascript World**
+- 💬 Ask me about **Full Stack Development**
 - 📫 How to reach me **lakshmi.narayanan.dev@gmail.com**
-- 📄 Know about my experiences **[https://www.naraine-developer.website/Resume.pdf](https://www.naraine-developer.website/Resume.pdf)**
+- 📄 Know about my experiences **[Website](https://naraine.tech/)**
 
 **ALL MY LINKS IN ONE SHELTER**
 ----------------------------------
