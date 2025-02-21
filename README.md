@@ -93,6 +93,6 @@
 ----------
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshmi-narayanan-dev&show_icons=true&locale=en&layout=compact" alt="lakshmi-narayanan-dev" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lakshmi-narayanan-dev&theme=synthwave&border_radius=3.5" alt="GitHub Streak" /></a>
+[comment]: # (<!--<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lakshmi-narayanan-dev&theme=synthwave&border_radius=3.5" alt="GitHub Streak" /></a> -->)
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=lakshmi-narayanan-dev&show_icons=true&locale=en" alt="lakshmi-narayanan-dev" /></p>
