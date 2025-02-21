@@ -92,5 +92,7 @@
 **STATS**
 ----------
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshmi-narayanan-dev&show_icons=true&locale=en&layout=compact" alt="lakshmi-narayanan-dev" /></p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lakshmi-narayanan-dev)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=lakshmi-narayanan-dev&theme=synthwave&border_radius=3.5)](https://git.io/streak-stats)
+
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=lakshmi-narayanan-dev&show_icons=true&locale=en" alt="lakshmi-narayanan-dev" /></p>
