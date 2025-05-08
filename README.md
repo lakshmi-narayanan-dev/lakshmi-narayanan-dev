@@ -8,6 +8,8 @@ Hi there 👋, I'm **Lakshmi Narayanan R** (aka **Naraine**).
 <a href="https://allmylinks.com/naraine-dev" style="text-decoration: none;">
   Know Me 
 </a>
+\
+\
 
 <!-- Image -->
 <img src="https://raw.githubusercontent.com/lakshmi-narayanan-dev/lakshmi-narayanan-dev/refs/heads/main/logo.png" alt="lakshmi-narayanan-dev" height="300px" /> 
