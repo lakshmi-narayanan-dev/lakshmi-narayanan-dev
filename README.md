@@ -15,6 +15,6 @@ Hi there 👋, I'm **Lakshmi Narayanan R** (aka **Naraine**).
  
 <p>&nbsp; </p>
 
-<a href="https://allmylinks.com/naraine-dev">
+<a href="https://allmylinks.com/naraine-dev" style="text-decoration: none;">
   **Know Me** 
 </a>
