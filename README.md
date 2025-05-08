@@ -22,4 +22,4 @@ Hi there 👋, I'm **Lakshmi Narayanan R** (aka **Naraine**).
 </p>
 
 > [!NOTE]
-> We were updating the github profile with our availability. Thanks
+> While my GitHub profile is still a work in progress, I’ve made sure to update my current availability. Feel free to reach out if you'd like to connect or collaborate—I'm open to new opportunities and discussions.
