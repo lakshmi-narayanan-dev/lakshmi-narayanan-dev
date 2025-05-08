@@ -3,7 +3,8 @@ Hi there 👋, I'm **Lakshmi Narayanan R** (aka **Naraine**).
 **Developer-cum-Tester**
 
 
-<img src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" alt="lakshmi-narayanan-dev" width="140px" height="150px" /> 
+<!-- Comments -->
+<img src="https://raw.githubusercontent.com/lakshmi-narayanan-dev/lakshmi-narayanan-dev/refs/heads/main/01.png" alt="lakshmi-narayanan-dev" width="140px" height="150px" /> 
  
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=lakshmi-narayanan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="lakshmi-narayanan-dev" /> 
