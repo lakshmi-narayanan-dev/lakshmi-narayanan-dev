@@ -12,12 +12,9 @@ Hi there 👋, I'm **Lakshmi Narayanan R** (aka **Naraine**).
 <img src="https://badges.pufler.dev/repos/lakshmi-narayanan-dev"/>
  <img src="https://badges.pufler.dev/commits/monthly/lakshmi-narayanan-dev" />
 </p>
- 
-<p>&nbsp; </p>
+
 
 <a href="https://allmylinks.com/naraine-dev" style="text-decoration: none;">
   Know Me 
 </a>
 
-
-<a href="https://example.com" style="text-decoration: none;">Visit Example</a>
