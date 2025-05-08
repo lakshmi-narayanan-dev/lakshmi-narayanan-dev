@@ -20,6 +20,3 @@ Hi there 👋, I'm **Lakshmi Narayanan R** (aka **Naraine**).
 <img src="https://badges.pufler.dev/repos/lakshmi-narayanan-dev"/>
  <img src="https://badges.pufler.dev/commits/monthly/lakshmi-narayanan-dev" />
 </p>
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lakshmi-narayanan-dev&bg_color=ffffff&color=000000&line=000000&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
