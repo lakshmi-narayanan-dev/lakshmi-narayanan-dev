@@ -10,6 +10,7 @@ Hi there 👋, I'm **Lakshmi Narayanan R** (aka **Naraine**).
 <p align="right"> 
 <img src="https://komarev.com/ghpvc/?username=lakshmi-narayanan-dev&label=Profile%20views&color=blue&style=flat" alt="lakshmi-narayanan-dev" /> 
 <img src="https://badges.pufler.dev/repos/lakshmi-narayanan-dev"/>
+ <img src="https://badges.pufler.dev/commits/{periodicity}/lakshmi-narayanan-dev" />
 </p>
  
 <p>&nbsp; </p>
