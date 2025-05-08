@@ -5,7 +5,7 @@ Hi there 👋, I'm **Lakshmi Narayanan R** (aka **Naraine**).
 **Developer-cum-Tester**
 
 <!-- Website Link -->
-<a href="https://allmylinks.com/naraine-dev" style="text-decoration: none;">
+<a href="https://allmylinks.com/naraine-dev" style="text-decoration: none;" target="_blank">
   Know Me 
 </a>
 <br>
