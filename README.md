@@ -12,7 +12,7 @@ Hi there 👋, I'm **Lakshmi Narayanan R** (aka **Naraine**).
 <br>
 
 <!-- Image -->
-<img src="https://raw.githubusercontent.com/lakshmi-narayanan-dev/lakshmi-narayanan-dev/refs/heads/main/logo.png" alt="lakshmi-narayanan-dev" height="300px" /> 
+<img src="https://raw.githubusercontent.com/lakshmi-narayanan-dev/lakshmi-narayanan-dev/refs/heads/main/logo.png" alt="lakshmi-narayanan-dev" height="200px" /> 
 
 <!-- Metrics -->
 <p align="right"> 
