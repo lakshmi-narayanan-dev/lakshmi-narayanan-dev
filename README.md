@@ -5,7 +5,7 @@ Hi there 👋, I'm **Lakshmi Narayanan R** (aka **Naraine**).
 **Developer-cum-Tester**
 
 <!-- Image -->
-<img src="https://raw.githubusercontent.com/lakshmi-narayanan-dev/lakshmi-narayanan-dev/refs/heads/main/01.png" alt="lakshmi-narayanan-dev" width="250px" height="350px" style="border: 2px solid grey;" /> 
+<img src="https://raw.githubusercontent.com/lakshmi-narayanan-dev/lakshmi-narayanan-dev/refs/heads/main/01.png" alt="lakshmi-narayanan-dev" width="250px" height="350px" style="border: 2px solid #000;" /> 
  
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=lakshmi-narayanan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="lakshmi-narayanan-dev" /> 
