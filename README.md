@@ -1,6 +1,6 @@
 <!-- Name -->
 Hi there 👋, I'm **Lakshmi Narayanan R** (aka **Naraine**).
-\
+
 <!-- Designation -->
 **Developer-cum-Tester**
 
