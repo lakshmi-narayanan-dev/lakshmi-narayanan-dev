@@ -10,6 +10,8 @@
  
 <p>&nbsp; </p>
 
+I’m currently learning & **working in Javascript World**
+
 - ✨ I’m currently learning & working in **Javascript World**
 - 💬 Ask me about **Full Stack Development**
 - 📫 How to reach me **lakshmi.narayanan.dev@gmail.com**
