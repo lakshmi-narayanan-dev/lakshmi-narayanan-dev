@@ -21,7 +21,6 @@ Hi there 👋, I'm **Lakshmi Narayanan R** (aka **Naraine**).
  <img src="https://badges.pufler.dev/commits/monthly/lakshmi-narayanan-dev" />
 </p>
 
-## alert messages
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
