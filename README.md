@@ -1,7 +1,6 @@
-## Hi there 👋, I'm Lakshmi Narayanan R (aka) **Naraine.**
+## Hi there 👋, I'm **Lakshmi Narayanan R** (aka **Naraine**).
 
-### **developer-cum-tester**
-
+### **Developer-cum-Tester**
 <img src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" alt="lakshmi-narayanan-dev" width="140px" height="150px" /> 
  
 <p align="left"> 
