@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Lakshmi Narayanan R, people call me Naraine.
+## Hi there 👋, I'm Lakshmi Narayanan R (aka) Naraine.
 <h3 align="left"><code>WEBSITE, SOFTWARE DEVELOPER</code></h3>
 <img src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" alt="lakshmi-narayanan-dev" width="140px" height="150px" /> 
  
