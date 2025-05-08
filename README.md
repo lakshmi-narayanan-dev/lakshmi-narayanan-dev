@@ -1,4 +1,4 @@
-<h1 align="left"><code>Hi 👋, I'm Lakshmi Narayanan R</code></h1>
+## Hi 👋, I'm Lakshmi Narayanan R
 <h3 align="left"><code>WEBSITE, SOFTWARE DEVELOPER</code></h3>
 <img src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" alt="lakshmi-narayanan-dev" width="140px" height="150px" /> 
  
