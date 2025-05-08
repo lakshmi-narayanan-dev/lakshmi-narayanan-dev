@@ -8,7 +8,7 @@ Hi there 👋, I'm **Lakshmi Narayanan R** (aka **Naraine**).
 <img src="https://raw.githubusercontent.com/lakshmi-narayanan-dev/lakshmi-narayanan-dev/refs/heads/main/logo.png" alt="lakshmi-narayanan-dev" height="300px" /> 
 
 ## *Italic Text*
-## **Bold Text**
+## **Bold Text** Hello
 ## ***Bold and Italic***
 ## ~~Strikethrough~~
 ## A ⊂ B (subset symbol works as plain text)
