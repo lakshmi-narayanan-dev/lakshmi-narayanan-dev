@@ -2,7 +2,7 @@
 Hi there 👋, I'm **Lakshmi Narayanan R** (aka **Naraine**).
 
 <!-- Designation -->
-**Developer-cum-Tester**
+**Developer-cum-Tester | Software Engineer**
 
 <!-- Website Link -->
 <a href="https://allmylinks.com/naraine-dev" style="text-decoration: none;" target="_blank">
